@@ -9,8 +9,8 @@ it represents how to activate venv using batch file (commandprompt)
  
  # activatevenv change to rootdirectory
  @echo off
-CD /D "D:\menv\Scripts"
-call activate.bat
-CD /D "D:\"
-jupyter notebook
+<br>CD /D "D:\menv\Scripts"</br>
+<br>call activate.bat</br>
+<br>CD /D "D:\"</br>
+<br>jupyter notebook</br>
 
